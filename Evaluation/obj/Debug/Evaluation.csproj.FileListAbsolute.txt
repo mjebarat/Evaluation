@@ -1,0 +1,10 @@
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\Evaluation.dll.config
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\Evaluation.dll
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\Evaluation.pdb
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\Newtonsoft.Json.dll
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\Newtonsoft.Json.xml
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\obj\Debug\Evaluation.dll
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\obj\Debug\Evaluation.pdb
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\log4net.dll
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\bin\log4net.xml
+c:\users\mjebarat-externe\documents\visual studio 2013\Projects\Evaluation\Evaluation\obj\Debug\Evaluation.csprojResolveAssemblyReference.cache
